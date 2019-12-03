@@ -155,6 +155,7 @@ SubsetCreate||||SubsetCreate( sDim, sSub );||||SubsetSubmenu
 SubsetCreateByMDX||||SubsetCreateByMDX( sSub, sMDX );||||SubsetSubmenu
 SubsetDeleteAllElements||||SubsetDeleteAllElements( sDim, sSub );||||SubsetSubmenu
 SubsetDestroy||||SubsetDestroy( sDim, sSub );||||SubsetSubmenu
+SubsetElementExists||||SubsetElementExists( sDim, sSub, sEl );||||SubsetSubmenu
 SubsetElementDelete||||SubsetElementDelete( sDim, sSub, nIndex );||||SubsetSubmenu
 SubsetElementInsert||||SubsetElementInsert( sDim, sSub, sEl, nPosition );||||SubsetSubmenu
 SubsetExists||||SubsetExists( sDim, sSub );||||SubsetSubmenu
